@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LSP_Assignments
 The Repository contains the LSP assignments
 =======
@@ -14,4 +13,4 @@ submission.
 ## Purpose
 - Learn Linux with practical 
 - Unix with concepts and linux with practical
->>>>>>> 936494f (Add respository documentation)
+
